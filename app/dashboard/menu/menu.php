@@ -1,4 +1,4 @@
-<div class="sidebar" data-background-color="brown" data-active-color="danger">
+<div class="sidebar" data-background-color="tema" data-active-color="tema">
     <!-- logo -->
     <div class="logo">
         <img class="fe-icone-dashboard" src="../../assets/img/dashboard/icone-dashboard.png" alt="logo">
@@ -49,63 +49,25 @@
         <!-- menu do sistema -->
         <ul class="nav">
             <!-- dashboard -->
-            <li class="fe-menu-aberto fe-fechar-menu-mobile">
+            <li class="fe-menu-aberto fe-fechar-menu-mobile active">
                 <a class="fe-menu-lateral" href="#">
                     <i class="ti-dashboard"></i>
                     <p>Dashboard</p>
                 </a>
             </li>
-            <!-- collapse 1 -->
-            <li class="fe-menu-aberto">
-                <a class="fe-menu-lateral" data-toggle="collapse" href="#collapse1">
-                    <i class="ti-panel"></i>
-                    <p>
-                        Collapse 1
-                        <b class="caret"></b>
-                    </p>
+            <!-- adicionar -->
+            <li class="fe-menu-aberto fe-fechar-menu-mobile">
+                <a class="fe-menu-lateral" href="#">
+                    <i class="ti-plus"></i>
+                    <p>Adicionar usuário</p>
                 </a>
-                <div class="collapse fe-fechar-menu-mobile" id="collapse1">
-                    <ul class="nav">
-                        <li>
-                            <a href="#">
-                                <span class="sidebar-mini">C1</span>
-                                <span class="sidebar-normal">Collapse 1</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <span class="sidebar-mini">C2</span>
-                                <span class="sidebar-normal">Collapse 2</span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
             </li>
-            <!-- collapse 2 -->
-            <li class="fe-menu-aberto">
-                <a class="fe-menu-lateral" data-toggle="collapse" href="#collapse2">
+            <!-- listar  -->
+            <li class="fe-menu-aberto fe-fechar-menu-mobile">
+                <a class="fe-menu-lateral" href="#">
                     <i class="ti-list"></i>
-                    <p>
-                        Collapse 2
-                        <b class="caret"></b>
-                    </p>
+                    <p>Listar usuário</p>
                 </a>
-                <div class="collapse fe-fechar-menu-mobile" id="collapse2">
-                    <ul class="nav">
-                        <li>
-                            <a href="#">
-                                <span class="sidebar-mini">C1</span>
-                                <span class="sidebar-normal">Collapse 1</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <span class="sidebar-mini">C2</span>
-                                <span class="sidebar-normal">Collapse 2</span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
             </li>
         </ul>
     </div>

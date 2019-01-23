@@ -6,7 +6,7 @@
         $foto  = "url('$foto_temp')";
     }
 
-    $imagem_lateral_temp = "https://img.elo7.com.br/product/zoom/FBCE34/adesivo-paisagem-praia-decorando-com-adesivos.jpg";
+    $imagem_lateral_temp = "https://store-images.s-microsoft.com/image/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.12c2c5b7-0d97-4635-9b57-8a35da0f4c79";
     if ($imagem_lateral_temp != "") {
         $imagem_lateral  = "linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url('$imagem_lateral_temp')";
     }
@@ -16,7 +16,7 @@
         $imagem_rodape  = "url('$imagem_rodape_temp')";
     }
 
-    $cor_tema  = "#66615b";
+    $cor_tema  = "#e50914";
     $cor_link  = "#ef8157";  
     $cor_foto  = "#887d6e";  
     $cor_a     = "#824027";

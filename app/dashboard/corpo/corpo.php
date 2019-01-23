@@ -10,7 +10,7 @@
                                 <div class="numbers pull-left">21</div>
                             </div>
                         </div>
-                        <h6 class="big-title">Total de <span class="text-success">usuários</span> cadastrados
+                        <h6 class="big-title">usuários<span class="text-success"> cadastrados</span>
                         </h6>
                         <div id="chartTotalEarningsDoc"></div>
                     </div>
@@ -35,7 +35,7 @@
                                 <div class="numbers pull-left">13</div>
                             </div>
                         </div>
-                        <h6 class="big-title">Total de <span class="text-info">usuários</span> ativos
+                        <h6 class="big-title">usuários<span class="text-info"> ativos</span>
                         </h6>
                         <div id="chartTotalEarningsDoc"></div>
                     </div>
@@ -60,7 +60,7 @@
                                 <div class="numbers pull-left">6</div>
                             </div>
                         </div>
-                        <h6 class="big-title">Total de <span class="text-muted">usuários</span> desativos
+                        <h6 class="big-title">usuários<span class="text-muted"> desativos</span>
                         </h6>
                         <div id="chartTotalEarningsDoc"></div>
                     </div>
@@ -85,7 +85,7 @@
                                 <div class="numbers pull-left">2</div>
                             </div>
                         </div>
-                        <h6 class="big-title">Total de <span class="text-danger">usuários</span> pendentes
+                        <h6 class="big-title">usuários<span class="text-danger"> pendentes</span>
                         </h6>
                         <div id="chartTotalEarningsDoc"></div>
                     </div>
